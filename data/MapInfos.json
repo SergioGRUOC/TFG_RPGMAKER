@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Cielo","order":2,"parentId":2,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false},
+{"id":2,"expanded":true,"name":"Casa_Inicio","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false},
+{"id":3,"expanded":true,"name":"Casa_Protagonista","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false},
+{"id":4,"expanded":true,"name":"Casa_Planta_Baja","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":544.1999999999999,"quick":false},
+{"id":5,"expanded":true,"name":"Jardín","order":5,"parentId":4,"scrollX":811,"scrollY":453.5,"quick":false},
+{"id":6,"expanded":false,"name":"Castillo_Draxia","order":12,"parentId":9,"scrollX":893.4545454545455,"scrollY":565.6363636363636,"quick":false},
+null,
+{"id":8,"expanded":true,"name":"Ciudad de Osten","order":7,"parentId":9,"scrollX":975.2727272727274,"scrollY":494.72727272727275,"quick":false},
+{"id":9,"expanded":true,"name":"Mapa mundo","order":6,"parentId":0,"scrollX":893.4545454545455,"scrollY":609.2727272727273,"quick":false},
+null,
+{"id":11,"expanded":false,"name":"Bar","order":8,"parentId":8,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false},
+null,
+null,
+{"id":14,"expanded":false,"name":"Tienda del herrero","order":9,"parentId":8,"scrollX":884.7272727272727,"scrollY":503.4545454545455,"quick":false},
+{"id":15,"expanded":true,"name":"Casa abandonada","order":10,"parentId":8,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false},
+{"id":16,"expanded":false,"name":"Habitación_heroe","order":11,"parentId":15,"scrollX":884.7272727272727,"scrollY":494.72727272727275,"quick":false}
+]

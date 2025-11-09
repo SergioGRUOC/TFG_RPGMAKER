@@ -1,0 +1,24 @@
+# IGNORAR: Archivos del Motor y Ejecutables
+nw.dll
+nw.exe
+Game.exe
+notification_helper.exe
+d3dcompiler_47.dll
+ffmpeg.dll
+libEGL.dll
+libGLESv2.dll
+node.dll
+nw_elf.dll
+v8_context_snapshot.bin
+
+# Archivos de recursos PAK generados
+nw_100_percent.pak
+nw_200_percent.pak
+resources.pak
+
+# Archivos de registro y temporales del sistema
+debug.log
+thumbs.db
+.DS_Store
+*.bak
+*.tmp
