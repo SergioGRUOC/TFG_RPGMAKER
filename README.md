@@ -1,6 +1,6 @@
-## TFG-RPG: Proyecto de RPG Maker
+## TFG_Poyecto: El héroe que nadie esperaba
 
-¡Bienvenida al repositorio del código fuente del proyecto **TFG-RPG**!
+¡Bienvenidos al repositorio de mi proyecto para el TFG!
 
 Este repositorio contiene el **código fuente** (scripts, bases de datos y *assets*) del juego desarrollado con RPG Maker.
 
