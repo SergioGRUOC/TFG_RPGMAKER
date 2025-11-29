@@ -14,7 +14,7 @@ La versión ejecutable y lista para probar del juego se ha empaquetado en format
 
 Descargue directamente el archivo ejecutable (`Game.exe` y sus archivos de soporte) haciendo clic en el siguiente enlace:
 
-[Descargar TFG-RPG **v1.0.1** (7Z)](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.1/TFG_RPGMAKER_V1.0.1.7z)
+[Descargar TFG-RPG **v1.0.1** (7Z) - CORREGIDO](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.1/TFG_RPGMAKER_V1.0.1_corregido.7z)
 
 **2. Ejecutar:**
 
