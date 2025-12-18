@@ -18,8 +18,8 @@ Descargue el paquete completo haciendo clic en el siguiente enlace:
 
 **2. Ejecución:**
 
-* **Descomprima** el archivo **`TFG_RPGMAKER_V1.0.1.7z`** utilizando un programa compatible (como 7-Zip o WinRAR).
-* Dentro de la carpeta extraída, haga doble clic en **`Game.exe`** para iniciar el juego.
+* **Descomprima** el archivo **`Proyecto_RPG.7z`** utilizando un programa compatible (como 7-Zip o WinRAR).
+* Dentro de la carpeta extraída, haga doble clic en **`Game.exe`** para iniciar la experiencia completa.
 
 ---
 
