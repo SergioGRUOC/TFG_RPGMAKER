@@ -14,7 +14,7 @@ La versión ejecutable y lista para probar del juego se ha empaquetado en format
 
 Descargue el paquete completo haciendo clic en el siguiente enlace:
 
-[Descargar TFG-RPG **Versión GOLDEN** (7Z)](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.1-golden/Proyecto_RPG.rar) 
+[Descargar TFG-RPG **Versión GOLDEN** (rar)](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.1-golden/Proyecto_RPG.rar) 
 
 **2. Ejecución:**
 
