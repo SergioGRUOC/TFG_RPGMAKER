@@ -8,17 +8,17 @@ Este repositorio contiene el **código fuente** (scripts, bases de datos y *asse
 
 ## Acceso a la Versión Jugable
 
-La versión ejecutable y lista para probar del juego se ha empaquetado en formato **7Z** y se encuentra en la sección de **Releases** (Publicaciones) de este repositorio.
+La versión ejecutable y lista para probar del juego se ha empaquetado en formato **rar** y se encuentra en la sección de **Releases** (Publicaciones) de este repositorio.
 
 **1. Descargar el Juego:**
 
 Descargue el paquete completo haciendo clic en el siguiente enlace:
 
-[Descargar TFG-RPG **Versión GOLDEN** (rar)](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.1-golden/Proyecto_RPG.rar) 
+[Descargar Proyecto-RPG **Versión GOLDEN** (rar)](https://github.com/SergioGRUOC/TFG_RPGMAKER/releases/download/v1.0.2-goldenmaster/Proyecto_RPG.rar) 
 
 **2. Ejecución:**
 
-* **Descomprima** el archivo **`Proyecto_RPG.7z`** utilizando un programa compatible (como 7-Zip o WinRAR).
+* **Descomprima** el archivo **`Proyecto_RPG.rar`** utilizando un programa compatible (como 7-Zip o WinRAR).
 * Dentro de la carpeta extraída, haga doble clic en **`Game.exe`** para iniciar la experiencia completa.
 
 ---
